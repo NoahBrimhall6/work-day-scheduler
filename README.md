@@ -19,3 +19,4 @@ THEN the saved events persist
 Made using Jquery, Bootstrap, and momentJS
 
 Deployed at: https://noahbrimhall6.github.io/work-day-scheduler/
+<img width="1267" alt="work-day-scheduler-screenshot" src="https://user-images.githubusercontent.com/109111849/186563359-a54480b4-ab8d-44cb-b40f-7f3a6f7aa6a9.png">
