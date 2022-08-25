@@ -1,6 +1,6 @@
 # work-day-scheduler
 
-
+```
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -14,6 +14,8 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+```
 
 Made using Jquery, Bootstrap, and momentJS
 
+Deployed at: https://noahbrimhall6.github.io/work-day-scheduler/
